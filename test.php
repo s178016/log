@@ -5,6 +5,7 @@ phpinfo();
 
 // Показать только информацию модуля.
 // phpinfo(8) даст идентичный результат.
-lalalalala
+commit kakoi to
+
 
 ?>
