@@ -5,6 +5,6 @@ phpinfo();
 
 // Показать только информацию модуля.
 // phpinfo(8) даст идентичный результат.
-phpinfo(INFO_MODULES);
+lalalalala
 
 ?>
